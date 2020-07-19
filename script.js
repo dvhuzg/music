@@ -27,7 +27,7 @@ $(function()
     */
     var musics = [{
         artist: "NH♥",
-        name: "Chắc Chắc Yêu Là Đây",
+        name: "Chắc Chắn Yêu Là Đây",
         url: "music.mp3",
         picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
      },
