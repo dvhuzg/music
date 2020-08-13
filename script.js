@@ -27,8 +27,8 @@ $(function()
     */
     var musics = [{
         
-        artist: "♥",
-        name: "an earnest love...or nothing",
+        artist: ":)",
+        name: "earnest love or nothing",
         url: "dungbomacanhnhe.mp3",
         picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     }
