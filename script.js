@@ -26,21 +26,10 @@ $(function()
             audio.src = musics[currIndex].url;
     */
     var musics = [{
-        artist: "NH♥",
-        name: "Chắc Chắn Yêu Là Đây",
-        url: "music.mp3",
-        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
-     },
-     {
-        artist: "NH♥",
-        name: "You Are My Crush",
-        url: "YouAreMyCrush.mp3",
-        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
-    },
-    {
-        artist: "NH♥",
-        name: "HiHi",
-        url: "hello.mp3",
+        
+        artist: "♥",
+        name: "an earnest love...or nothing",
+        url: "dungbomacanhnhe.mp3",
         picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     }
     ];
