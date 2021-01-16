@@ -29,7 +29,7 @@ $(function()
         
         artist: ":)",
         name: "earnest love or nothing",
-        url: "nguoianhyeunhat.mp3",
+        url: "ai mang co don di.mp3",
         picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     }
     ];
