@@ -29,7 +29,7 @@ $(function()
         
         artist: ":)",
         name: "earnest love or nothing",
-        url: "Người Anh Yêu Nhất - Đinh Đại Vũ SON2M REMIX.mp3",
+        url: "nguoianhyeunhat.mp3",
         picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     }
     ];
