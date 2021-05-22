@@ -25,13 +25,49 @@ $(function()
 
             audio.src = musics[currIndex].url;
     */
-    var musics = [{
-        
+    var musics = [
+        {
         artist: ":)",
-        name: "earnest love or nothing",
+        name: "Many's the somebody who have beautiful love! How ?",
+        url: "duongtoichoemve.mp3",
+        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+        },
+        {
+        artist: ":)",
+        name: "Many's the somebody who have beautiful love! How ?",
+        url: "chilamuonnoi.mp3",
+        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+        },
+        {
+        artist: ":)",
+        name: "Many's the somebody who have beautiful love! How ?",
         url: "nguoianhyeunhat.mp3",
         picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
-    }
+        },
+        {
+        artist: ":)",
+        name: "Many's the somebody who have beautiful love! How ?",
+        url: "haconvuongnang.mp3",
+        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+        },
+        {
+        artist: ":)",
+        name: "Many's the somebody who have beautiful love! How ?",
+        url: "baotienmotmobinhyen.mp3",
+        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+        },
+        {
+        artist: ":)",
+        name: "Many's the somebody who have beautiful love! How ?",
+        url: "3107.mp3",
+        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+        },
+        {
+        artist: ":)",
+        name: "Many's the somebody who have beautiful love! How ?",
+        url: "nguoianhyeunhat.mp3",
+        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+        }
     ];
     
     function shuffle(a) {
