@@ -28,43 +28,43 @@ $(function()
     var musics = [
         {
         artist: ":)",
-        name: "Many's the somebody who have beautiful love! How ?",
+        name: "Stay here with me.",
         url: "duongtoichoemve.mp3",
         picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
         },
         {
         artist: ":)",
-        name: "Many's the somebody who have beautiful love! How ?",
+        name: "Stay here with me.",
         url: "chilamuonnoi.mp3",
         picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
         },
         {
         artist: ":)",
-        name: "Many's the somebody who have beautiful love! How ?",
-        url: "nguoianhyeunhat.mp3",
+        name: "Stay here with me.",
+        url: "ongtroilamtoianhchua.mp3",
         picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
         },
         {
         artist: ":)",
-        name: "Many's the somebody who have beautiful love! How ?",
+        name: "Stay here with me.",
         url: "haconvuongnang.mp3",
         picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
         },
         {
         artist: ":)",
-        name: "Many's the somebody who have beautiful love! How ?",
+        name: "Stay here with me.",
         url: "baotienmotmobinhyen.mp3",
         picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
         },
         {
         artist: ":)",
-        name: "Many's the somebody who have beautiful love! How ?",
+        name: "Stay here with me.",
         url: "3107.mp3",
         picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
         },
         {
         artist: ":)",
-        name: "Many's the somebody who have beautiful love! How ?",
+        name: "Stay here with me.",
         url: "nguoianhyeunhat.mp3",
         picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
         }
