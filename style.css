@@ -28,7 +28,7 @@ body
     right: -30px;
     bottom: -30px;
     left: -30px;
-    background-image: url("bg2.jpg");
+    background-image: url("./assets/image/bg2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50%;
