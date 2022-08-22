@@ -29,44 +29,37 @@ $(function()
         {
         artist: ":)",
         name: "Stay here with me.",
-        url: "duongtoichoemve.mp3",
-        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+        url: "./assets/audio/duongtoichoemve.mp3"
         },
         {
         artist: ":)",
         name: "Stay here with me.",
-        url: "chilamuonnoi.mp3",
-        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+        url: "./assets/audio/chilamuonnoi.mp3"
         },
         {
         artist: ":)",
         name: "Stay here with me.",
-        url: "ongtroilamtoianhchua.mp3",
-        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+        url: "./assets/audio/ongtroilamtoianhchua.mp3"
         },
         {
         artist: ":)",
         name: "Stay here with me.",
-        url: "haconvuongnang.mp3",
-        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+        url: "./assets/audio/haconvuongnang.mp3"
         },
         {
         artist: ":)",
         name: "Stay here with me.",
-        url: "baotienmotmobinhyen.mp3",
-        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+        url: "./assets/audio/baotienmotmobinhyen.mp3"
         },
         {
         artist: ":)",
         name: "Stay here with me.",
-        url: "3107.mp3",
-        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+        url: "./assets/audio/3107.mp3"
         },
         {
         artist: ":)",
         name: "Stay here with me.",
-        url: "nguoianhyeunhat.mp3",
-        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+        url: "./assets/audio/nguoianhyeunhat.mp3"
         }
     ];
     
